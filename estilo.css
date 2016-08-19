@@ -16,10 +16,15 @@ p {
   text-align: justify !important;
 }
 
+
 ul li,
 ol li {
   font-size: 16px !important;
   line-height: 1.5 !important;
+}
+
+.imagen{
+  text-align=center;
 }
 
 .usercard {
