@@ -24,7 +24,7 @@ ol li {
 }
 
 .imagen{
-  text-align=center;
+  text-align=center !important;
 }
 
 .usercard {
